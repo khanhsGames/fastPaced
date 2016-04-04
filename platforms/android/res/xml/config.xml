@@ -16,12 +16,12 @@
         <param name="android-package" value="org.apache.cordova.media.AudioHandler" />
     </feature>
     <allow-intent href="market:*" />
-    <name>HelloWorld</name>
+    <name>Trace Tile - True fast paced game</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="khanhh1@hotmail.com" href="http://cordova.io">
+        khanhsGames
     </author>
     <content src="index.html" />
     <access origin="*" />
